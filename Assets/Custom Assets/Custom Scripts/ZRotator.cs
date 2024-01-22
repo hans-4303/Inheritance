@@ -16,3 +16,4 @@ public class ZRotator : BaseRotator
         this.transform.Rotate(0, 0, speed * Time.deltaTime);
     }
 }
+
